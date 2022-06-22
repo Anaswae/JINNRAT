@@ -1,6 +1,6 @@
 #!data/data/com.termux/files/usr/bin/bash
 clear
-cd LizRatAdvance/server
+cd server
 echo '''
 
            ▒█░░░ ░▀░ ▀▀█ ▒█▀▀█ █▀▀█ ▀▀█▀▀
