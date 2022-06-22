@@ -21,3 +21,12 @@ A cloud based remote android managment suite, powered by NodeJS
 - File Explorer & Downloader
 - Command Queuing
 - Built In APK Builder
+
+
+
+---
+
+```
+    username :  admin
+    password :  root
+```
