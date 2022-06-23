@@ -14,6 +14,8 @@ A cloud based remote android managment suite, powered by NodeJS
       ₹___________________________________________₹
 ```
 
+### [+] Preview 
+files/VID-20220623-WA0001.mp4
 
 ## Features
 - GPS Logging
