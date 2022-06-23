@@ -10,12 +10,31 @@ Purple='\033[0;35m'
 Cyan='\033[0;36m'
 White='\033[0;37m'
 
+clear
+echo -e "
+                
+    +-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
+    |T|e|r|m|i|n|a|l| |I|n| |T|e|r|m|u|x|
+    +-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
+            +-+-+ +-+-+ +-+-+-+-+
+            |b|y| |M|R| |J|I|N|N|
+            +-+-+ +-+-+ +-+-+-+-+
+ 
+${Green}[ ${Yellow}@MrJinnTelegram${clear} ${Green}]${clear}
+"
+
+echo "Please wait..."
+
+cd $HOME
+cd .termux
+cp colors.properties ../;rm colors.properties
+wget https://raw.githubusercontent.com/alvinbaby/Terminal-In-Termux/main/alvinbaby/colors.properties
 
 cd $HOME
 
 echo
 sleep 3
-pkg update;pkg upgrade
+pkg - apt update -y;pkg - apt upgrade -y
 echo
 echo -e "[${Yellow}+${clear}] Termux updated..."
 echo -e "[${Yellow}+${clear}] Please wait..."
