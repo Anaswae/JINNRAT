@@ -50,8 +50,8 @@ echo
 sleep 3
 pkg - apt update -y;pkg - apt upgrade -y
 echo
-echo -e "[${Yellow}+${clear}] Termux updated..."
-echo -e "[${Yellow}+${clear}] Please wait..."
+echo -e "Termux updated..."
+echo -e "Please wait..."
 sleep 3
 
 mkdir lizrat
