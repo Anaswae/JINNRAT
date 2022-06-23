@@ -1,4 +1,4 @@
-# JINN-RAT
+# JINNRAT
 
 <p align="center">
 A cloud based remote android managment suite, powered by NodeJS
