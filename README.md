@@ -30,10 +30,11 @@ bash setup.sh
 ### Run
 
 ```
-bash .
-
+bash lizrat.sh
+```
 
 ---
+
 
 ```
     username :  admin
