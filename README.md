@@ -4,6 +4,15 @@
 A cloud based remote android managment suite, powered by NodeJS
 </p>
 
+```
+      ₹___________________________________________₹
+               Coding master : LizOrd
+       [ Telegram : https://t.me/lizord2059 ]
+     ₹____________________<😈>_____________________₹
+             Repository master : MR JINN
+       [ Telegram : https://t.me/MrJinnTelegram ]
+      ₹___________________________________________₹
+```
 
 
 ## Features
