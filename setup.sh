@@ -55,7 +55,7 @@ echo -e "[${Yellow}+${clear}] Please wait..."
 sleep 3
 
 mkdir lizrat
-apt-get install ruby
+apt-get install ruby -y
 
 cd $HOME
 wget https://github.com/busyloop/lolcat/archive/master.zip
