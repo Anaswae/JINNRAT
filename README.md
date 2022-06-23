@@ -61,3 +61,14 @@ bash lizrat.sh
 </p>
 
 
+<div class="row">
+  <div class="column">
+    <img src="" 
+  </div>
+  <div class="column">
+    <img src=""
+  </div>
+  <div class="column">
+    <img src=""
+  </div>
+</div>
