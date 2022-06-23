@@ -23,8 +23,8 @@ ${Cyan}     | |    | |    |   \ | |    |   \ | | ______ | |__) |      / _ \  |_/
 ${Purple} _   | |    | |    | |\ \| |    | |\ \| ||______||  __ /      / ___ \     | |     
 ${Yellow}| |__' |   _| |_  _| |_\   |_  _| |_\   |_      _| |  \ \_  _/ /   \ \_  _| |_    
 ${Blue}`.____.'  |_____||_____|\____||_____|\____|    |____| |___||____| |____||_____|
-${Red}   Telegram : @MrJinnTelegram                [v${version}] 
-${Blue}  YouTube : https://bit.ly/3pSnvho         [By alvinbaby] 
+${Red}   Telegram : @MrJinnTelegram                            [v${version}] 
+${Blue}  YouTube : https://bit.ly/3pSnvho                      [By alvinbaby] 
 
 ${Purple}___________________________________________₹
                                                                                
