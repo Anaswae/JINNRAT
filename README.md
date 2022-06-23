@@ -37,6 +37,10 @@ A cloud based remote android managment suite, powered by NodeJS
 - Command Queuing
 - Built In APK Builder
 
+## detail video
+
+(25/06/2022 - 12:00pm)
+
 ### install Termux
 
 ```
