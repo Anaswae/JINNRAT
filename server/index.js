@@ -1,11 +1,11 @@
 /* 
 *   LizRat
 *   A Remote Access Control Application
-*   Author : Liz0rd (Manoj)
+*   Author : Liz0rd (alvinbaby)
 *  
 */
 
-console.log('🦎ʟɪᴢʀᴀᴛ ꜱᴇʀᴠᴇʀ ꜱᴛᴀʀᴛᴇᴅ ʟɪᴢ0ʀᴅ(ᴍᴀɴᴏᴊ)😈! \nhttp://localhost:22533');
+console.log('🦎ʟɪᴢʀᴀᴛ ꜱᴇʀᴠᴇʀ ꜱᴛᴀʀᴛᴇᴅ ʟɪᴢ0ʀᴅ(alvinbaby)😈! \nhttp://localhost:22533');
 
 const
     express = require('express'),
