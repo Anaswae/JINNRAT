@@ -26,14 +26,14 @@ ${Blue}`.____.'  |_____||_____|\____||_____|\____|    |____| |___||____| |____||
 ${Red}   Telegram : @MrJinnTelegram                [v${version}] 
 ${Blue}  YouTube : https://bit.ly/3pSnvho         [By alvinbaby] 
 
-___________________________________________₹
+${Purple}___________________________________________₹
                                                                                
 ${Red}     Coding master : LizOrd                    
 ${Red}  [ Telegram : https://t.me/lizord2059 ]            
-___________________>=______________________₹
+${Cyan}___________________>=______________________₹
 ${Red}     Repository master : MR JINN        
 ${Red}  [ Telegram : https://t.me/MrJinnTelegram ] 
-___________________________________________₹
+${Yellow}___________________________________________₹
 
 "
 
