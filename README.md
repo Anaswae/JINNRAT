@@ -63,12 +63,12 @@ bash lizrat.sh
 
 <div class="row">
   <div class="column">
-    <img src="" 
+    <img src="https://github.com/alvinbaby/JINN-RAT/blob/main/Files/20220623_121621.png" 
   </div>
   <div class="column">
-    <img src=""
+    <img src="https://github.com/alvinbaby/JINN-RAT/blob/main/Files/20220623_121728.png"
   </div>
   <div class="column">
-    <img src=""
+    <img src="https://github.com/alvinbaby/JINN-RAT/blob/main/Files/20220623_121658.png"
   </div>
 </div>
