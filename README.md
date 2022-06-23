@@ -14,8 +14,6 @@ A cloud based remote android managment suite, powered by NodeJS
       ₹___________________________________________₹
 ```
 
-### [+] Preview 
-files/VID-20220623-WA0001.mp4
 
 ## Features
 - GPS Logging
@@ -60,6 +58,10 @@ bash lizrat.sh
 <a href="https://youtube.com/channel/UCrSi_WwYSHVJ5fsrqFNUPZg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
 
+
+---
+
+### [+] Preview
 
 <div class="row">
   <div class="column">
