@@ -60,6 +60,8 @@ bash lizrat.sh
 
 
 ```
+  http://localhost:22533
+
     username :  admin
     password :  root
 ```
