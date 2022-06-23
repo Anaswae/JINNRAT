@@ -1,5 +1,6 @@
 #!data/data/com.termux/files/usr/bin/bash
 
+# Colors
 clear='\033[0m'
 Black='\033[0;30m'
 Red='\033[0;31m'
@@ -9,17 +10,22 @@ Blue='\033[0;34m'
 Purple='\033[0;35m'
 Cyan='\033[0;36m'
 White='\033[0;37m'
+Black="\033[1;30m"
+Violate="\033[1;37m"
+Nc="\033[00m"
 
-clear
-echo -e "
-                
-    +-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
-    |T|e|r|m|i|n|a|l| |I|n| |T|e|r|m|u|x|
-    +-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
-            +-+-+ +-+-+ +-+-+-+-+
-            |b|y| |M|R| |J|I|N|N|
-            +-+-+ +-+-+ +-+-+-+-+
- 
+version="1.0"
+
+# Logo
+logo="
+${Green}__     ___     _ ____  _     _     _ 
+${Red}\ \   / (_) __| |  _ \| |__ (_)___| |__   ___ _ __ 
+${Cyan} \ \ / /| |/ _' | |_) | '_ \| / __| '_ \ / _ \ '__| 
+${Purple}  \ V / | | (_| |  __/| | | | \__ \ | | |  __/ | 
+${Yellow}   \_/  |_|\__,_|_|   |_| |_|_|___/_| |_|\___|_| 
+${Red}   Telegram : @MrJinnTelegram                [v${version}] 
+${Blue}  YouTube : https://bit.ly/3pSnvho         [By alvinbaby] 
+
 ${Green}[ ${Yellow}@MrJinnTelegram${clear} ${Green}]${clear}
 "
 
