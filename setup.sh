@@ -12,10 +12,6 @@ White='\033[0;37m'
 
 
 cd $HOME
-mkdir lizrat
-cd $HOME
-wget https://raw.githubusercontent.com/Hax4us/Apkmod/master/setup.sh
-bash setup.sh
 
 echo
 sleep 3
@@ -24,6 +20,19 @@ echo
 echo -e "[${Yellow}+${clear}] Termux updated..."
 echo -e "[${Yellow}+${clear}] Please wait..."
 sleep 3
+
+mkdir lizrat
+apt-get install ruby
+
+cd $HOME
+wget https://github.com/busyloop/lolcat/archive/master.zip
+unzip master.zip
+cd lolcat-master/bin
+gem install lolcat
+
+cd $HOME
+wget https://raw.githubusercontent.com/Hax4us/Apkmod/master/setup.sh
+bash setup.sh
 
 clear |✅✅✅
 
