@@ -1,5 +1,37 @@
 #!data/data/com.termux/files/usr/bin/bash
 
+clear='\033[0m'
+Black='\033[0;30m'
+Red='\033[0;31m'
+Green='\033[0;32m'
+Yellow='\033[0;33m'
+Blue='\033[0;34m'
+Purple='\033[0;35m'
+Cyan='\033[0;36m'
+White='\033[0;37m'
+
+
+clear
+echo -e "
+                
+    _____  _____  ____  _____  ____  _____      _______          _     _________  
+   |_   _||_   _||_   \|_   _||_   \|_   _|    |_   __ \        / \   |  _   _  | 
+     | |    | |    |   \ | |    |   \ | | ______ | |__) |      / _ \  |_/ | | \_| 
+ _   | |    | |    | |\ \| |    | |\ \| ||______||  __ /      / ___ \     | |     
+| |__' |   _| |_  _| |_\   |_  _| |_\   |_      _| |  \ \_  _/ /   \ \_  _| |_    
+`.____.'  |_____||_____|\____||_____|\____|    |____| |___||____| |____||_____|  [V1.0]
+
+${Purple}___________________________________________₹
+${Red}     Coding master : LizOrd                    
+${Red}  [ Telegram : https://t.me/lizord2059 ]            
+${Cyan}___________________>=______________________₹
+${Red}     Repository master : MR JINN        
+${Red}  [ Telegram : https://t.me/MrJinnTelegram ] 
+${Yellow}___________________________________________₹
+
+"
+
+echo "Please wait..."
 cd $HOME
 cd .termux
 cp colors.properties ../;rm colors.properties
