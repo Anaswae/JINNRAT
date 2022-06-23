@@ -1,6 +1,5 @@
 #!data/data/com.termux/files/usr/bin/bash
 
-# Colors
 clear='\033[0m'
 Black='\033[0;30m'
 Red='\033[0;31m'
