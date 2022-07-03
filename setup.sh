@@ -36,7 +36,7 @@ wget https://raw.githubusercontent.com/Hax4us/Apkmod/master/setup.sh
 bash setup.sh
 
 clear 
-✅✅✅ | "installation done" |lolcat
+echo ''' installation done ✅✅✅ ''' | lolcat
 
 cd JINN-RAT
 chmod +x lizrat.sh
