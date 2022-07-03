@@ -20,7 +20,8 @@ clear
 cd $HOME
 pkg-apt update -y;pkg-apt upgrade -y
 mkdir lizrat
-apt-pkg install ruby -y
+pkg install ruby -y
+
 clear
 cd $HOME
 wget https://github.com/busyloop/lolcat/archive/master.zip
@@ -34,7 +35,8 @@ cd $HOME
 wget https://raw.githubusercontent.com/Hax4us/Apkmod/master/setup.sh
 bash setup.sh
 
-clear |✅✅✅
+clear 
+✅✅✅ | "installation done" |lolcat
 
 cd JINN-RAT
 chmod +x lizrat.sh
