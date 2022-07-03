@@ -39,9 +39,9 @@ A cloud based remote android managment suite, powered by NodeJS
 
 ## detail video 
 
-Upload time 👇
+https://youtu.be/gkaKWK8RoE4
 
-(25/06/2022 - 12:00pm)
+---
 
 ### install Termux
 
